@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning on Machine Learning<br>I'm looking for Data Science roles<br>I daily practice on kaggle<br>
+Looking for Data Science roles<br>I daily practice on kaggle<br>
 
 
 ## 🌐 Socials:
